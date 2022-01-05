@@ -1,0 +1,200 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+}
+
+.display{
+    display: flex;
+    margin-bottom: 200px;
+}
+
+.first-text-color{
+    color: #FFAD5A;
+}
+
+.first-element{
+    width: 50%;
+    padding-left: 7%;
+    padding-top: 10%;
+    
+}
+
+
+
+#first-button{
+    background-image: linear-gradient(orange, tomato);
+    text-decoration: none;
+    color: white;
+    padding: 15px 32px;
+    border-radius: 10px;
+}
+
+.first-h1-tag{
+    font-size: 50px;
+    line-height: 30px;
+    
+    
+}
+
+#first-para{
+
+    margin-bottom: 50px;
+    font-size: 18px;
+    line-height: 28px;
+    
+
+    
+}
+
+#first-image{
+    width: 500px;
+    height: 623px;
+    left: 700px;
+    top: -80px;
+    position: center;
+    padding-left: 100px;
+}
+
+#first-border{
+
+        padding-left: 15px;
+        
+       
+        border-left: 5px solid #FF5959;
+        border-radius: 2px;
+}
+
+#card{
+    background: rgba(79, 157, 166, 0.1);
+    border-radius: 26px;
+    width: 400px;
+    height: 420px;
+    left: 156px;
+    top: 723px;
+    margin-right: 40px;
+    margin-left: 80px;
+}
+
+.first-illu{
+   
+    width: 141px;
+    height: 141px;
+    left: 188px;
+    top: 748px;
+}
+
+.card-para{
+    text-align: justify;
+    font-size: 16px;
+    line-height: 19px;
+    padding: 5%;
+}
+
+.card-title{
+    font-size: 24px;
+    
+    
+    
+}
+
+#card-two{
+    background: rgba(255, 89, 89, 0.1);
+    border-radius: 26px;
+    width: 400px;
+    height: 420px;
+    left: 156px;
+    top: 723px;
+    margin-right: 40px;
+    margin-left: 80px;
+    
+
+}
+
+
+#card-three{
+    background: #FFF4D6;
+    border-radius: 26px;
+    width: 400px;
+    height: 420px;
+    left: 156px;
+    top: 723px;
+    margin-right: 40px;
+    margin-left: 80px;
+    
+
+}
+
+#second-text{
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 70px;
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+#third-sec{
+    
+
+    width: 400px;
+    height: 400px;
+    left: 158px;
+    top: 1185px;
+    margin-left: 100px;
+
+
+}
+
+#third-sec-text{
+    
+    margin-left: 200px;
+    width: 654px;
+    height: 311px;
+    left: 630px;
+    top: 1230px;
+}
+
+.third-sec-h1{
+    font-size: 36px;
+    line-height: 30px;
+    font-weight: bold;
+
+}
+
+#third-sec-para{
+    font-size: 18px;
+    line-height: 30px;
+    margin-bottom: 50px;
+}
+
+#backgroud-image-third-sec{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 227px 227px;
+    margin-left: 5%;
+
+    
+    
+}
+
+#backgroud-image-four-sec{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 200px 200px;
+    background-position: 1250px 280px;
+    padding-bottom: 200px;
+    
+}
+
+
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: #0B0D17;
+    color: white;
+    font-family: Lobster;
+    
+
+  }
