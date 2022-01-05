@@ -7,7 +7,7 @@ body{
 
 .display{
     display: flex;
-    margin-bottom: 200px;
+    margin-bottom: 100px;
 }
 
 .first-text-color{
@@ -184,7 +184,7 @@ body{
     background-repeat: no-repeat;
     background-size: 200px 200px;
     background-position: 1250px 280px;
-    padding-bottom: 200px;
+    padding-bottom: 80px;
     
 }
 
